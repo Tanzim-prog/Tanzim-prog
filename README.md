@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧪 Research focus - Data Science, Machine Learning, AI<br>⚒️ Industry focus - Software Quality Assurance, Data Sciecne<br>📨 Reach me - tanjimzamansany@gmail.com
+🧪 Research focus - Data Science, Machine Learning, AI<br>⚒️ Industry focus - Machine Learning, Data Sciecne, Software Quality Assurance<br>📨 Reach me - tanjimzamansany@gmail.com
 
 
 ## 🌐 Socials:
